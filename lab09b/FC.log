@@ -1,0 +1,42 @@
+Comparing files arq01.res and ARQ01.OUT
+FC: no differences encountered
+
+Comparing files arq02.res and ARQ02.OUT
+FC: no differences encountered
+
+Comparing files arq03.res and ARQ03.OUT
+FC: no differences encountered
+
+Comparing files arq04.res and ARQ04.OUT
+FC: no differences encountered
+
+Comparing files arq05.res and ARQ05.OUT
+FC: no differences encountered
+
+Comparing files arq06.res and ARQ06.OUT
+FC: no differences encountered
+
+Comparing files arq07.res and ARQ07.OUT
+FC: no differences encountered
+
+Comparing files arq08.res and ARQ08.OUT
+FC: no differences encountered
+
+Comparing files arq09.res and ARQ09.OUT
+***** arq09.res
+    3:  Preferencia:
+    4:  Membro 1: 3 11 2 8 12 10 13 9 14 5 7 1 4 6
+    5:  Membro 2: 7 14 8 10 4 5 9 6 3 11 1 2 12 13
+    6:  Membro 3: 12 5 8 7 11 14 6 9 1 3 10 13 2 4
+    7:  Membro 4: 11 14 4 6 13 1 5 8 2 7 10 9 12 3
+***** ARQ09.OUT
+    3:  Preferencia:
+    4:  Membro 1: 7 14 8 10 4 5 9 6 3 11 1 2 12 13
+    5:  Membro 2: 12 5 8 7 11 14 6 9 1 3 10 13 2 4
+    6:  Membro 3: 3 11 2 8 12 10 13 9 14 5 7 1 4 6
+    7:  Membro 4: 11 14 4 6 13 1 5 8 2 7 10 9 12 3
+*****
+
+Comparing files arq10.res and ARQ10.OUT
+FC: no differences encountered
+

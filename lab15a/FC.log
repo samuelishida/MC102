@@ -1,0 +1,42 @@
+Comparing files arq01.res and ARQ01.OUT
+FC: no differences encountered
+
+Comparing files arq02.res and ARQ02.OUT
+***** arq02.res
+    1:  Transferencia abortada
+***** ARQ02.OUT
+    1:  Transferencia aceita
+*****
+
+Comparing files arq03.res and ARQ03.OUT
+FC: no differences encountered
+
+Comparing files arq04.res and ARQ04.OUT
+***** arq04.res
+    1:  Transferencia aceita
+***** ARQ04.OUT
+    1:  Transferencia abortada
+*****
+
+Comparing files arq05.res and ARQ05.OUT
+FC: no differences encountered
+
+Comparing files arq06.res and ARQ06.OUT
+FC: no differences encountered
+
+Comparing files arq07.res and ARQ07.OUT
+FC: no differences encountered
+
+Comparing files arq08.res and ARQ08.OUT
+***** arq08.res
+    1:  Transferencia abortada
+***** ARQ08.OUT
+    1:  Transferencia aceita
+*****
+
+Comparing files arq09.res and ARQ09.OUT
+FC: no differences encountered
+
+Comparing files arq10.res and ARQ10.OUT
+FC: no differences encountered
+

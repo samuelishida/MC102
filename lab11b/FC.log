@@ -1,0 +1,44 @@
+Comparing files arq01.res and ARQ01.OUT
+FC: no differences encountered
+
+Comparing files arq02.res and ARQ02.OUT
+FC: no differences encountered
+
+Comparing files arq03.res and ARQ03.OUT
+FC: no differences encountered
+
+Comparing files arq04.res and ARQ04.OUT
+FC: no differences encountered
+
+Comparing files arq05.res and ARQ05.OUT
+FC: no differences encountered
+
+Comparing files arq06.res and ARQ06.OUT
+***** arq06.res
+    8:  
+    9:  Parametric Genome Rearrangement, Mathieu Blanchette and Takashi Kunisawa and David Sankoff, Gene, 172, 1, GC11 - GC17, 1996.
+***** ARQ06.OUT
+    8:  
+    9:  
+   10:  Parametric Genome Rearrangement, Mathieu Blanchette and Takashi Kunisawa and David Sankoff, Gene, 172, 1, GC11 - GC17, 1996.
+*****
+
+Comparing files arq07.res and ARQ07.OUT
+FC: no differences encountered
+
+Comparing files arq08.res and ARQ08.OUT
+FC: no differences encountered
+
+Comparing files arq09.res and ARQ09.OUT
+***** arq09.res
+    2:  
+    3:  A Data Structure for Dynamic Trees, Daniel D. Sleator and Robert Endre Tarjan, Journal of Computer and System Sciences, 26, 3, 
+***** ARQ09.OUT
+    2:  
+    3:  
+    4:  A Data Structure for Dynamic Trees, Daniel D. Sleator and Robert Endre Tarjan, Journal of Computer and System Sciences, 26, 3, 
+*****
+
+Comparing files arq10.res and ARQ10.OUT
+FC: no differences encountered
+
